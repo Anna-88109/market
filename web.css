@@ -1,3 +1,7 @@
+body {
+   background-color: #ffa6e1; 
+}
+
 .b {
 
     color: #ffffff;
@@ -7,3 +11,4 @@
     font-size: 50px;
     border-radius: 30px;
 }
+
