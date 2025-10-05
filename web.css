@@ -1,6 +1,9 @@
 .b {
 
-    background-color: #00ffa8;
     color: #ffffff;
-    border-radius: 20px;
+    height: 100px;
+    width: 300px;
+    background-color: #a3ffe0;
+    font-size: 50px;
+    border-radius: 30px;
 }
