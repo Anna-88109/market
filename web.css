@@ -1,14 +1,29 @@
 body {
-   background-color: #ffa6e1; 
+    font-weight: 200;
+    color: white;
+    background-color: #ffa6e1; 
+}
+p {
+    width: 350px;
+    margin: 0 auto;
 }
 
 .b {
 
-    color: #ffffff;
-    height: 100px;
-    width: 300px;
-    background-color: #a3ffe0;
-    font-size: 50px;
-    border-radius: 30px;
+    border: 0;
+    border-radius: 10px;
+    margin-top: 50px;
+    height: 60px;
+    width: 200px;
+    font-size: 20px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 500ms ease;
+    color: dimgrey;
+    background: pink;
 }
+button:hover {
+    background: black;
+}
+
 
