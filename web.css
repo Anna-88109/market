@@ -1,9 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Libertinus+Serif:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nata+Sans:wght@100..900&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 body {
+    font-family: "Source Code Pro"
     font-weight: 200;
     color: white;
     background-color: rgb(255, 166, 225); 
@@ -30,6 +32,7 @@ p {
 .b:hover {
     background: black;
 }
+
 
 
 
