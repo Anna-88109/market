@@ -19,12 +19,13 @@ p {
     font-weight: 500;
     cursor: pointer;
     transition: all 500ms ease;
-    color: dimgrey;
-    background: pink;
+    color: pink;
+    background: dimgrey;
 }
 button:hover {
     background: black;
 }
+
 
 
 
