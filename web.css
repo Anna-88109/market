@@ -21,7 +21,7 @@ p {
 }
 
 .b {
-    font-family: "Nata Sans"
+    font-family: "Nata Sans";
     border: 0;
     border-radius: 5px;
     margin-top: 50px;
@@ -37,6 +37,7 @@ p {
 .b:hover {
     background: black;
 }
+
 
 
 
