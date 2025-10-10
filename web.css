@@ -6,11 +6,14 @@
     box-sizing: border-box;
 }
 body {
-    font-family: "Source Code Pro";
+    
     font-weight: 200;
     color: white;
     background-color: rgb(255, 166, 225); 
 }
+h1 [
+    font-family: "Source Code Pro";
+    color: grey;
 p {
     font-family: 'Titan One';
     width: 350px;
@@ -34,6 +37,7 @@ p {
 .b:hover {
     background: black;
 }
+
 
 
 
