@@ -27,9 +27,10 @@ p {
     color: white;
     background: dimgrey;
 }
-button:hover {
+.b:hover {
     background: black;
 }
+
 
 
 
