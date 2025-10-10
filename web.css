@@ -1,7 +1,7 @@
 body {
     font-weight: 200;
     color: white;
-    background-color: #ffa6e1; 
+    background-color: rgb(255, 166, 225); 
 }
 p {
     width: 350px;
@@ -25,5 +25,6 @@ p {
 button:hover {
     background: black;
 }
+
 
 
